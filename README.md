@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -->
 ### Hi there! I'm Aidan 👋
-- ⚡️ I’m currently learning Solidity
+- ⚡️ I’m currently learning Solidity and Rust
 - 🔨 I’m working on [Hudson County Food Finder](https://github.com/aphil311/hudson-food-finder/tree/main)
 - 📫 You can reach me by email at aphillips@princeton.edu
