@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 -->
 ### Hi there! I'm Aidan 👋
 - ⚡️ I’m currently learning Solidity and Rust
-- 🔨 I’m working on [Hudson County Food Finder](https://github.com/aphil311/hudson-food-finder/tree/main)
+- 🔨 I’m working on [Monte Carlo Pricing](https://github.com/aphil311/monte-carlo-pricing/tree/main/src)
 - 📫 You can reach me by email at aphillips@princeton.edu
