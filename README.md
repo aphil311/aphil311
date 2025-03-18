@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 -->
 ### Hi there! I'm Aidan 👋
 - ⚡️ I’m currently learning Machine Translation and Machine Behavior
-- 🔨 I’m working on [Talos](https://github.com/aphil311/talos/tree/main)
+- 🔨 I’m working on [Talos](https://github.com/aphil311/talos/tree/main) and [LLM Negotiation Arena](https://github.com/aphil311/negotiation-arena/tree/main)
 - 📫 You can reach me by email at aphillips@princeton.edu
