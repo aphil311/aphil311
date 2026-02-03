@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -->
 ### Hi there! I'm Aidan 👋
-- 🔨 I’m working on [Talos](https://github.com/aphil311/talos/tree/main) with Prof. Viswanath
+- 🔨 I’m working on [CORAL](https://github.com/aphil311/coral/tree/main) with Prof. Viswanath
 - 📫 You can reach me by email at aphillips [at] princeton [dot] edu
